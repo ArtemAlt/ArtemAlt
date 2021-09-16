@@ -1,10 +1,10 @@
-<p align="center"> <img src="https://github.com/ArtemAlt/ArtemAlt/blob/main/assets/6AIJtr5.gif"/></p>
+<p align="center"> <img src="https://github.com/ArtemAlt/ArtemAlt/blob/main/assets/6AIJtr5.gif" alt=""/></p>
 
 ### I'm a beginner java software developer. 
 
 Badges
 
-###Languages and Tools
+### Languages and Tools
 
 ![](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=#007396)
 ![](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=#6DB33F)
