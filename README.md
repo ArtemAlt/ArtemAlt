@@ -17,5 +17,5 @@
 ![](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=#25A162)
 ![](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=#25A162)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemalt&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemalt&show_icons=true&theme=radical)
 
