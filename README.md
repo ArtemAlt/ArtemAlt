@@ -1,6 +1,5 @@
 <p align="center"> <img src="https://github.com/ArtemAlt/ArtemAlt/blob/main/assets/6AIJtr5.gif" alt=""/></p>
 
-### I'm a beginner java software developer. 
 
 ### Languages and Tools
 
